@@ -28,4 +28,5 @@ Instruction to setting up this project:
    npm install
 4. Run the Application Locally :
    npm run dev
+   
 Open any browser and visit: http://localhost:5000
